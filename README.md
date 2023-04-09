@@ -1,2 +1,2 @@
-# Hack Princeton Spring 23 
-## By Megan Kulshekar and Tyler Wright
+# Bon Hacketit
+## Rohit Vyas, Devang Pratap Singh and Aditya Veer Singh
